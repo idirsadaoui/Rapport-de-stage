@@ -6,8 +6,10 @@ On y retrouve les notebooks et fichiers sur les méthodes Images Similarity, Aut
 
 Les notebooks sont directement accessible sur les liens suivants : 
 
-Image Similarity : lien  
+Image Similarity :  
 
-AutoML : lien  
+AutoML : [lien](https://htmlpreview.github.io/?https://github.com/idirsadaoui/Rapport-de-stage/blob/main/Auto_ML/AUTO_ML.html) 
 
-AutoML + Image Similarity : lien  
+AutoML + Image Similarity : [lien](https://htmlpreview.github.io/?https://github.com/idirsadaoui/Rapport-de-stage/blob/main/Auto_ML_%2B_Image_Similarity/AutoML_%2B_Image_Similarity.html) 
+
+SuperGlue : [lien](https://htmlpreview.github.io/?https://github.com/idirsadaoui/Rapport-de-stage/blob/main/SuperGlue/SuperGlue.html)
